@@ -28,3 +28,5 @@ Through this task, important concepts such as file handling, data processing, us
 
 ## output
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/48fe2ba9-5e42-45f4-958d-40de9552ead8" />
+
